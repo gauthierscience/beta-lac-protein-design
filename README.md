@@ -6,8 +6,8 @@ as was done in our recent bioRxiv submission (see citation below):
 
 Download this repository and navigate to the root directory
 ```
-git clone https://github.com/gauthierscience/beta-lac-design.git
-cd beta-lac-design
+git clone https://github.com/gauthierscience/beta-lac-protein-design.git
+cd beta-lac-protein-design
 ```
 
 Notes:
@@ -16,7 +16,7 @@ Notes:
 all provided as jupyter notebooks in the `analysis_scripts` directory. Output of these scripts is shown as embedded in the jupyter notebook.
 - There are no notable installation or run time committments for any of these scripts.
 - All MATLAB scripts and data (multiple sequence alignment and model) that were used to generate the designs are available in
-[potts_design_release.zip](https://github.com/gauthierscience/beta-lac-design/blob/main/analysis_scripts/potts_design_release.zip). Please see `README.m` in the zip file for examples of how to execute new design generation.
+[potts_design_release.zip](https://github.com/gauthierscience/beta-lac-protein-design/blob/main/analysis_scripts/potts_design_release.zip). Please see `README.m` in the zip file for examples of how to execute new design generation.
 
 ## Demo / Run analysis scripts
 
