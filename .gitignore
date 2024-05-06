@@ -1,0 +1,4 @@
+analysis_scripts/figures
+analysis_scripts/__pycache__
+**/.ipynb_checkpoints
+**/.DS_Store
