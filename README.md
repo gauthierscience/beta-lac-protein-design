@@ -2,7 +2,7 @@
 
 This repository contains scripts and jupyter notebooks to generate and analyze
 $\beta$-lactamase variants as well as analyze their experimental characterization 
-as was done in our recent bioRxiv submission (see citation below):
+as was done in our recent publication (see citation below):
 
 Download this repository and navigate to the root directory
 ```
